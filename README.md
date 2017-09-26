@@ -1,3 +1,6 @@
+# Chinese Version Download
+[Download](https://www.bitcoinbook.info/translations/cmn/book.pdf)
+
 # Mastering Bitcoin
 
 Mastering Bitcoin is a book for developers, but the first two chapters cover bitcoin at a level that is approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters and get a great understanding of bitcoin. 
